@@ -1,0 +1,7 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\Documentos termomecanica\Eduardo\Estrutura de dados\Trabalho_p2\Trabalho1\Trabalho1\obj\Debug\Trabalho1.csprojAssemblyReference.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Documentos termomecanica\Eduardo\Estrutura de dados\Trabalho_p2\Trabalho1\Trabalho1\obj\Debug\Trabalho1.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Documentos termomecanica\Eduardo\Estrutura de dados\Trabalho_p2\Trabalho1\Trabalho1\bin\Debug\Trabalho1.exe.config
+C:\Users\thiag\OneDrive\Área de Trabalho\Documentos termomecanica\Eduardo\Estrutura de dados\Trabalho_p2\Trabalho1\Trabalho1\bin\Debug\Trabalho1.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\Documentos termomecanica\Eduardo\Estrutura de dados\Trabalho_p2\Trabalho1\Trabalho1\bin\Debug\Trabalho1.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Documentos termomecanica\Eduardo\Estrutura de dados\Trabalho_p2\Trabalho1\Trabalho1\obj\Debug\Trabalho1.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\Documentos termomecanica\Eduardo\Estrutura de dados\Trabalho_p2\Trabalho1\Trabalho1\obj\Debug\Trabalho1.pdb
